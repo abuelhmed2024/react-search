@@ -191,6 +191,7 @@ const App = () => {
               <p>
                 React-Search adds a Vectara-powered semantic search UI to your React applications with a few lines of
                 code.
+              هذه الصفحة يجب أن تظهر
               </p>
             </VuiText>
 
