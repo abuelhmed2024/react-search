@@ -3,7 +3,7 @@
 </p>
 
 # React-Search
-
+<b>يجب اجراء التعديلات في الروابط </b>
 React-Search is a UI widget for adding [Vectara](https://vectara.com/)-powered semantic search to your React apps with a few lines of code.
 
 > [!TIP]
