@@ -2,7 +2,7 @@
   <img style="max-width: 100%;" alt="Welcome to Create UI" src="https://raw.githubusercontent.com/vectara/react-search/main/images/projectLogo.png"/>
 </p>
 
-# React-Search تعديلات ابوالحمد 101
+# React-Search تعديلات ابوالحمد 102
 
 React-Search is a UI widget for adding [Vectara](https://vectara.com/)-powered semantic search to your React apps with a few lines of code.
 
